@@ -1,2 +1,9 @@
-# PH3205
-Computational Physics
+# PH3205 : Computational Physics
+
+- **Introduction to the programming language** (e.g. C, C++, Fortran, Matlab etc. or any combination of above). The introduction is accompanied by examples in the following general areas. (a) Sorting Algorithms -- selection sort, Quick sort etc. (b) Solution of equation -- Newton's method, Secant method etc. (c) Simple numerical integratons -- Trapezoidal rule, simpson 1/3 rule etc. and any other basic numerical techniques, that are useful for the later part of the course.
+
+- **Classical mechanics** (2nd order ODE, initial value problems). Euler mthod, Modified-Euler (predictor-corrector) method, Runge-Kutta method, Leapfrog method, Verlet method, Velocity Verlet method, each with and without velocity dependent drag terms. Examples from (but not limited to) harmonic oscillator with damping, forced one, anharmonic pieces addred, realistic projectile motion with air drag, realistic planetary orbit calculation etc. Simplectic integration, taking advantage of conservation principle.
+
+- **Quantum Mechanics** (2nd order ODE, boundary value and eigenvalue problems). Shooting method and Numerov's method, examples of bound states calculation for 1D wells of regular and unusual shapes (those do not admit analytical solutions) quantum harmonic oscillators. Eigenvalue problem in matrix form (finite dimensional basis), and exact (Lanczos) diagonalization, Variational calculation with orthogonal basis states. Time-dependent Schrodinger equation, wave equation etc.
+
+- **Statistical Mechanics** (Stochastic and Monte Carlo Methods). Uniform random number generation, Randon walk and diffusion, Monte Carlo Integration -- advantage in higher dimension, error analysis. Importance sampling and detailed balance. Generation of random numbers from a Gaussian distribution-- Box Miller method, using central limit theorem, Sampling points from arbitrary distributions -- Metropolis sampling and examples.
